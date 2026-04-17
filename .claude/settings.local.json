@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet --version)",
+      "Bash(dotnet sdk:*)",
+      "Bash(dotnet new:*)",
+      "Bash(dotnet sln:*)",
+      "Bash(dotnet add:*)",
+      "Bash(rm \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR.Arkiv.API/Controllers/WeatherForecastController.cs\" \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR.Arkiv.API/WeatherForecast.cs\")",
+      "Bash(rm \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR.Arkiv.Tests/UnitTest1.cs\")",
+      "Bash(mkdir -p \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR.Arkiv.API/Models\" \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR.Arkiv.API/Data\" \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR.Arkiv.API/Repositories\" \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR-arkiv-web/js\" \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR-arkiv-web/css\")",
+      "Bash(mkdir -p \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR.Arkiv.API/Models\" \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR.Arkiv.API/Data\" \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR.Arkiv.API/Repositories\" \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR.Arkiv.API/Controllers\" \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR-arkiv-web/js\" \"C:/Users/toked/Obligatorisk opgave dr arkiv/DR-arkiv-web/css\")",
+      "Bash(dotnet build:*)",
+      "Bash(dotnet test:*)",
+      "Bash(dotnet remove:*)"
+    ]
+  }
+}

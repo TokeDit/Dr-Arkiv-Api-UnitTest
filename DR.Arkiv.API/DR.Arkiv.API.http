@@ -1,0 +1,6 @@
+@DR.Arkiv.API_HostAddress = http://localhost:5149
+
+GET {{DR.Arkiv.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
